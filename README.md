@@ -1,0 +1,16 @@
+# EXPRESSJS-REMOTE-SERVER-SETUP-EXAMPLE
+
+## PROJECT DESCRIPTION
+    THIS IS A ExpressJS Remote Server Set UP TEMPLATE
+
+
+
+
+
+
+#### TECHNOLOGIES
+    * NodeJS
+    * ExpressJS
+
+##### VERSION
+            0.1
