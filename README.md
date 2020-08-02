@@ -14,3 +14,8 @@
 
 ##### VERSION
             0.1
+
+
+###### LOG
+
+    CREATED - SUNDAY, AUGUST 2, 2020
