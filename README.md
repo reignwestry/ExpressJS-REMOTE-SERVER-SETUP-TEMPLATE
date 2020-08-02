@@ -19,3 +19,7 @@
 ###### LOG
 
     CREATED - SUNDAY, AUGUST 2, 2020
+
+
+###### Author
+    Reign Westry <https://www.reignwestry.com>

@@ -1,0 +1,25 @@
+{
+  "name": "02-expressjs-server-setup-example",
+  "version": "1.0.0",
+  "description": "ExpressJS REMOTE SERVER SETUP TEMPLATE",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/reignreapsow/ExpressJS-REMOTE-SERVER-SETUP-TEMPLATE.git"
+  },
+  "author": "18231550+reignreapsow@users.noreply.github.com <18231550+reignreapsow@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "bugs": {
+    "url": "https://github.com/reignreapsow/ExpressJS-REMOTE-SERVER-SETUP-TEMPLATE/issues"
+  },
+  "homepage": "https://github.com/reignreapsow/ExpressJS-REMOTE-SERVER-SETUP-TEMPLATE#readme",
+  "devDependencies": {}
+}
