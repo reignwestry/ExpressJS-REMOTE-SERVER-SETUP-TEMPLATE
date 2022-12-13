@@ -15,7 +15,7 @@
   "author": "18231550+reignreapsow@users.noreply.github.com <18231550+reignreapsow@users.noreply.github.com>",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   },
   "bugs": {
     "url": "https://github.com/reignreapsow/ExpressJS-REMOTE-SERVER-SETUP-TEMPLATE/issues"
